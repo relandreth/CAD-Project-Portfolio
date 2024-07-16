@@ -1,0 +1,7 @@
+﻿"Arcs" = 10
+"Pivital Radius"= 100
+"Ring Thickness"= 40
+"Arc Angle"= 155deg
+"Arc Thickness"= 12
+"Total Rotation"= 82deg
+"Tooth Count"= 60

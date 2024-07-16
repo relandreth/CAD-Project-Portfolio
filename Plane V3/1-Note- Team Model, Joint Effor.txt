@@ -1,7 +1,0 @@
-This model and accompanying score optimization were completed by
-the team, not only by me, Roderick Landreth. I was repsonsible mainly for
-dimension designing, and modeling lift/control surfaces and main subsystem
-connecting structures. The CG calc was found on an RC plane forum, though
-agrees with hand calculations. Developement and testing this model and 
-physical craft, and a technical design report and presentation
-counted as my Union College Aero Advanced 2020 Senior Project.
